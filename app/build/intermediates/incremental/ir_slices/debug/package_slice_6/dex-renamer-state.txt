@@ -1,0 +1,4 @@
+#Fri Feb 01 19:31:26 IST 2019
+base.0=C\:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

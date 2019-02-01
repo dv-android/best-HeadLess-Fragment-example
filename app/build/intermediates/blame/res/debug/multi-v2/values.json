@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,6,12,11,5,8,9,4,7,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,212,540,486,171,315,379,114,255,441",
+                        "endColumns": "53,41,76,52,39,62,60,55,58,43",
+                        "endOffsets": "108,249,612,534,206,373,435,165,309,480"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,223,265,342,395,435,498,559,615,674",
+                        "endColumns": "53,41,76,52,39,62,60,55,58,43",
+                        "endOffsets": "218,260,337,390,430,493,554,610,669,713"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "14,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "718,1009",
+                        "endLines": "20,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "1004,1164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

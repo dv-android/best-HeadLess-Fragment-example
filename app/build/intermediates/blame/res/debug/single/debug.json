@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\menu-v11_main.xml.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\menu-v11\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\DEVANG\\AndroidStudioProjects\\best-HeadLess-Fragment-example\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
